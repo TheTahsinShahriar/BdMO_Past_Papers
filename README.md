@@ -6,23 +6,21 @@
 
 A complete and easy-to-use archive of **Bangladesh Mathematical Olympiad (BdMO)** past papers. This collection includes Selection Round, Regional Round, and National Round problems for all categories (Primary to Higher Secondary) to help students prepare for the olympiad.
 
-## Quick Access (Click to view questions)
+## Quick Access
+
+click the name of the year to view the questions.
 
 <!-- FOLDER_LIST_START -->
 
-| Year | Year |
-| :--- | :--- |
-| 📅 [BdMO 2024](./BdMO%202024) | 📅 [BdMO 2023](./BdMO%202023) |
-| 📅 [BdMO 2022](./BdMO%202022) | 📅 [BdMO 2021](./BdMO%202021) |
-| 📅 [BdMO 2020](./BdMO%202020) | 📅 [BdMO 2019](./BdMO%202019) |
-| 📅 [BdMO 2018](./BdMO%202018) | 📅 [BdMO 2017](./BdMO%202017) |
-| 📅 [BdMO 2016](./BdMO%202016) | 📅 [BdMO 2015](./BdMO%202015) |
-| 📅 [BdMO 2014](./BdMO%202014) | 📅 [BdMO 2013](./BdMO%202013) |
-| 📅 [BdMO 2012](./BdMO%202012) | 📅 [BdMO 2011](./BdMO%202011) |
-| 📅 [BdMO 2010](./BdMO%202010) | 📅 [BdMO 2009](./BdMO%202009) |
-| 📅 [BdMO 2008](./BdMO%202008) | 📅 [BdMO 2007](./BdMO%202007) |
-| 📅 [BdMO 2006](./BdMO%202006) | 📅 [BdMO 2005](./BdMO%202005) |
-| 📅 [BdMO 2004](./BdMO%202004) |  |
+| Year | Year | Year |
+| :--- | :--- | :--- |
+| • [BdMO 2024](./BdMO%202024) | • [BdMO 2023](./BdMO%202023) | • [BdMO 2022](./BdMO%202022) |
+| • [BdMO 2021](./BdMO%202021) | • [BdMO 2020](./BdMO%202020) | • [BdMO 2019](./BdMO%202019) |
+| • [BdMO 2018](./BdMO%202018) | • [BdMO 2017](./BdMO%202017) | • [BdMO 2016](./BdMO%202016) |
+| • [BdMO 2015](./BdMO%202015) | • [BdMO 2014](./BdMO%202014) | • [BdMO 2013](./BdMO%202013) |
+| • [BdMO 2012](./BdMO%202012) | • [BdMO 2011](./BdMO%202011) | • [BdMO 2010](./BdMO%202010) |
+| • [BdMO 2009](./BdMO%202009) | • [BdMO 2008](./BdMO%202008) | • [BdMO 2007](./BdMO%202007) |
+| • [BdMO 2006](./BdMO%202006) | • [BdMO 2005](./BdMO%202005) | • [BdMO 2004](./BdMO%202004) |
 
 <!-- FOLDER_LIST_END -->
 
@@ -58,4 +56,4 @@ Keywords: Bangladesh Mathematical Olympiad Past Papers, BdMO Old Questions, BdMO
 -->
 
 
-*Maintained by [TheTahsinShahriar](https://github.com/TheTahsinShahriar)*
+Maintained by [TheTahsinShahriar](https://github.com/TheTahsinShahriar)
